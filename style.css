@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: #6ecc57;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+button {
+  padding: 10px;
+  background-color: #3f3f3f;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  height: 20%;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  font-size: 18pxpx;
+}
+
+div {
+  margin-top: 25px;
+}
+
+h1 {
+  color: #24352c;
+}
